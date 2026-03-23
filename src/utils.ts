@@ -1,4 +1,4 @@
-// Shared utilities
+// Shared utilities for the application
 
 // ── Tested ───────────────────────────────────────────────────────────────────
 
