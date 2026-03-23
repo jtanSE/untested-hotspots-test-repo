@@ -1,0 +1,14 @@
+{
+  "name": "untested-hotspots-test-repo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample TypeScript project for testing the untested-hotspots GitHub Action",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0"
+  }
+}
